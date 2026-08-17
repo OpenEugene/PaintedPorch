@@ -1,0 +1,158 @@
+---
+---
+@import "minima";
+
+:root {
+  --porch-ink: #252525;
+  --porch-paper: #fffaf0;
+  --porch-kraft: #d5a65b;
+  --porch-blue: #617d91;
+  --porch-yellow: #f4bd26;
+  --porch-orange: #d96b24;
+}
+
+.site-header {
+  border-top: 5px solid var(--porch-yellow);
+}
+
+.site-title,
+.site-title:visited {
+  color: var(--porch-ink);
+}
+
+.build-intro {
+  margin: 1.5rem 0 2rem;
+  padding: 1.25rem 1.4rem;
+  border: 1px solid #e7d9bc;
+  border-left: 0.45rem solid var(--porch-yellow);
+  border-radius: 0.25rem;
+  background: var(--porch-paper);
+}
+
+.build-intro > :last-child,
+.decision-callout > :last-child {
+  margin-bottom: 0;
+}
+
+.build-overview {
+  overflow-x: auto;
+  margin: 1.25rem 0 2.25rem;
+  border: 1px solid #e6e1d6;
+  border-radius: 0.25rem;
+}
+
+.build-overview table {
+  min-width: 36rem;
+  margin: 0;
+  border: 0;
+}
+
+.build-overview th {
+  background: var(--porch-ink);
+  color: #fff;
+}
+
+.build-overview th,
+.build-overview td {
+  padding: 0.75rem 0.9rem;
+  border-color: #e6e1d6;
+  vertical-align: top;
+}
+
+.step-title {
+  display: flex;
+  align-items: baseline;
+  gap: 0.65rem;
+  margin-top: 3rem;
+}
+
+.step-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: var(--porch-yellow);
+  color: var(--porch-ink);
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.step-title h2 {
+  margin: 0;
+}
+
+.build-figure {
+  margin: 1.05rem 0 1.15rem;
+  padding: 0.6rem;
+  border: 1px solid #e7dfd0;
+  border-radius: 0.3rem;
+  background: var(--porch-paper);
+}
+
+.build-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.12rem;
+}
+
+.build-figure figcaption {
+  padding: 0.7rem 0.35rem 0.15rem;
+  color: #4d4d4d;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.action-summary {
+  margin: 0.8rem 0 1rem;
+  color: #343434;
+  font-size: 1.08rem;
+  font-weight: 600;
+}
+
+.decision-callout {
+  margin: 1.75rem 0;
+  padding: 1.15rem 1.25rem;
+  border: 1px solid #c9d8df;
+  border-left: 0.45rem solid var(--porch-blue);
+  border-radius: 0.25rem;
+  background: #f4f9fb;
+}
+
+.final-checks {
+  margin: 1.75rem 0;
+  padding: 1.25rem 1.4rem;
+  border: 1px solid #ead7b3;
+  border-radius: 0.25rem;
+  background: #fffaf0;
+}
+
+.final-checks h2 {
+  margin-top: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .build-intro,
+  .decision-callout,
+  .final-checks {
+    padding: 1rem;
+  }
+
+  .step-title {
+    gap: 0.5rem;
+    margin-top: 2.4rem;
+  }
+
+  .step-number {
+    width: 1.75rem;
+    height: 1.75rem;
+  }
+
+  .step-title h2 {
+    font-size: 1.45rem;
+  }
+}

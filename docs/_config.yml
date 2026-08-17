@@ -4,3 +4,9 @@ description: >-
   in Eugene, Oregon.
 theme: minima
 markdown: kramdown
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+optional_front_matter:
+  enabled: true
+default_layout: default
