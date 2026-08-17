@@ -24,3 +24,11 @@ First pre-build sessions for the [Columns](Columns.md) build:
 - **Thursday, August 27, 2026** — 5:00 PM, Westish Shop
 
 See the [Bill of Materials](Columns/Bill of Materials.md) and [Assembly Instructions](Columns/Assembly Instructions.md) for what's being built.
+
+## Building and painting the columns
+
+The columns going up around the porch are built over a sonotube form: a layer of wire mesh for structure, then stretch wrap, then carpet tape, then a kraft paper skin — finished off with a coat of paint.
+
+- [Columns](Columns.md) — overview of the build and its layer stack
+- [Bill of Materials](Columns/Bill of Materials.md) — everything sourced (and still needed) for the build
+- [Assembly Instructions](Columns/Assembly Instructions.md) — step-by-step, from prepping the form to painting the finished shell
