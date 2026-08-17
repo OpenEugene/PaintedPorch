@@ -1,3 +1,7 @@
+---
+permalink: /
+---
+
 # Home
 
 The Painted Porch is a community space built on the idea that art and ideas should be free to anyone who walks up — not just the invited.
