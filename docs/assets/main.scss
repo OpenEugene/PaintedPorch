@@ -474,3 +474,8 @@
     gap: 0.8rem;
   }
 }
+
+/* Wider desktop frame: preserves the theme’s responsive padding while easing the default narrow content column. */
+.wrapper {
+  max-width: calc(1080px - (30px * 2));
+}
