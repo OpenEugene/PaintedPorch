@@ -479,3 +479,77 @@
 .wrapper {
   max-width: calc(1080px - (30px * 2));
 }
+
+/* Art Hop visit section */
+.home-visit {
+  display: grid;
+  grid-template-columns: minmax(18rem, 0.75fr) minmax(0, 1.25fr);
+  gap: clamp(1.5rem, 4.2vw, 4rem);
+  align-items: center;
+  padding: clamp(1.5rem, 4vw, 3.4rem);
+  border: 1px solid #d3dfc4;
+  border-radius: 0.45rem;
+  background: #f1f6ea;
+}
+
+.home-visit h2 {
+  margin: 0.25rem 0 0;
+  color: var(--porch-ink);
+  font-size: clamp(2rem, 3.6vw, 3.1rem);
+  letter-spacing: -0.045em;
+  line-height: 1.05;
+}
+
+.home-visit-lede {
+  max-width: 32rem;
+  margin: 1rem 0 1.25rem;
+  color: #4e5149;
+  font-size: 1.08rem;
+  line-height: 1.62;
+}
+
+.home-address {
+  margin: 0 0 1.4rem;
+  padding: 0.9rem 1rem;
+  border-left: 0.38rem solid var(--porch-orange);
+  background: rgba(255, 255, 255, 0.76);
+  color: #3d4239;
+  font-size: 1.05rem;
+  font-style: normal;
+  line-height: 1.55;
+}
+
+.home-address strong {
+  color: var(--porch-ink);
+  font-size: 1.14rem;
+}
+
+.home-map-figure {
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid #c7d2b7;
+  border-radius: 0.35rem;
+  background: #fffaf0;
+  box-shadow: 0 0.55rem 1.25rem rgba(59, 75, 50, 0.12);
+}
+
+.home-map-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.home-map-figure figcaption {
+  padding: 0.75rem 0.95rem 0.85rem;
+  color: #55584e;
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+@media screen and (max-width: 760px) {
+  .home-visit {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    padding: 1.35rem;
+  }
+}

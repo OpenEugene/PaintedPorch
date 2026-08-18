@@ -10,11 +10,32 @@ permalink: /
     <p class="home-hero-lede">The Painted Porch is a public-facing community space where people can gather, build, paint, and share what they are thinking about.</p>
     <div class="home-actions" aria-label="Start here">
       <a class="home-button home-button-primary" href="Columns/Assembly%20Instructions.html">See the build guide</a>
-      <a class="home-button" href="#sessions">Join a pre-build session</a>
+      <a class="home-button" href="#visit">Visit at Art Hop · Sept 5</a>
     </div>
   </div>
   <figure class="home-hero-art">
     <img src="assets/painted-porch-hero.jpg" alt="Community members paint handmade kraft-paper columns with blue waves, orange suns, and leafy shapes on an open porch in a warehouse district.">
+  </figure>
+</section>
+
+<section class="home-section home-visit" id="visit" aria-labelledby="visit-heading">
+  <div class="home-visit-copy">
+    <p class="home-section-kicker">Save the date</p>
+    <h2 id="visit-heading">Visit at Art Hop · Sept 5</h2>
+    <p class="home-visit-lede">Find the Painted Porch at Westish Shop during the Warehouse District Art Hop, then use the map to spot the shop just south of Amazon Creek.</p>
+    <address class="home-address">
+      <strong>Westish Shop</strong><br>
+      1009 S Bertelsen Rd<br>
+      Eugene, OR 97402
+    </address>
+    <div class="home-actions" aria-label="Art Hop links">
+      <a class="home-button home-button-primary" href="https://www.warehousedistrictarthop.com/">Art Hop website</a>
+      <a class="home-button" href="https://www.instagram.com/warehousedistrictarthop/">Follow on Instagram</a>
+    </div>
+  </div>
+  <figure class="home-map-figure">
+    <img src="assets/westish-art-hop-map.svg" alt="Stylized wayfinding map to Westish Shop at 1009 South Bertelsen Road. South Bertelsen Road is on the west, West 11th Avenue is on the south, Amazon Creek crosses diagonally through the neighborhood, Euphoria Chocolate is north of the creek, and an open field is shown to the northwest.">
+    <figcaption>Westish Shop sits west of Amazon Creek, just north of W 11th Avenue.</figcaption>
   </figure>
 </section>
 
