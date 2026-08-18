@@ -14,7 +14,8 @@ Materials for the [Columns](../Columns.md) build, sourced from two Amazon orders
 | Black Zip Ties, Self-Locking Nylon | 1000 pcs, 3" | Not used — see [Not included](#not-included-in-these-orders) |
 | FugaCity Heavy Duty Stretch Wrap, 60 Gauge, 500% stretch | 15" W x 1000' L, 1 roll w/ handles | Stretch wrap |
 | White Kraft Butcher Paper Roll, unwaxed | 18" x 150' | Paper |
-| Carpet Tape, Double Sided | 2" x 12 yd | Carpet tape |
+| XFasten Double Sided Tape, Clear, Removable | 2" x 30 yd | Carpet tape |
+| 3M Super 77 Multi-Surface Spray Adhesive | 7.35 oz can | Paper |
 
 ## Not included in these orders
 
