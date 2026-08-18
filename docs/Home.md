@@ -25,7 +25,7 @@ permalink: /
     <p class="home-visit-lede">Find the Painted Porch at Westish Shop during the Warehouse District Art Hop, then use the map to spot the shop just south of Amazon Creek.</p>
     <address class="home-address">
       <strong>Westish Shop</strong><br>
-      1009 S Bertelsen Rd<br>
+      1009 S Bertelsen Rd, Unit E<br>
       Eugene, OR 97402
     </address>
     <div class="home-actions" aria-label="Art Hop links">
@@ -34,8 +34,8 @@ permalink: /
     </div>
   </div>
   <figure class="home-map-figure">
-    <img src="assets/westish-art-hop-map.svg?v=4" alt="Simplified wayfinding map to Westish Shop at 1009 South Bertelsen Road. South Bertelsen Road runs continuously from the north edge to the south edge on the west. Stewart Road crosses the north, with Euphoria Chocolate and the open field above it; West 11th Avenue crosses the south; and Amazon Creek enters from the west edge before leaving at the east edge.">
-    <figcaption>Westish Shop is west of Amazon Creek, just north of W 11th Avenue. The creek crosses the map edge to edge; Euphoria Chocolate and the open field are north of Stewart Road.</figcaption>
+    <img src="assets/westish-art-hop-map.svg?v=6" alt="Simplified wayfinding map to Westish Shop, Unit E, at 1009 South Bertelsen Road. South Bertelsen Road runs continuously from the north edge to the south edge on the west. Stewart Road crosses the north, with Euphoria Chocolate marked on it and the open field east of Bertelsen; West 11th Avenue crosses the south; and Amazon Creek enters from the west edge before leaving at the east edge. A short driveway connects Bertelsen Road to the shop.">
+    <figcaption>Westish Shop, Unit E, is west of Amazon Creek, just north of W 11th Avenue. The creek crosses the map edge to edge; Euphoria is on Stewart Road and the field is east of Bertelsen.</figcaption>
   </figure>
 </section>
 
