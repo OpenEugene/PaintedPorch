@@ -1,83 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="map-title map-description">
-  <title id="map-title">Stylized wayfinding map to Westish Shop</title>
-  <desc id="map-description">A stylized map with South Bertelsen Road along the west, West 11th Avenue along the south, Amazon Creek running diagonally through the neighborhood, Euphoria Chocolate north of the creek, an open field to the northwest, and Westish Shop at 1009 South Bertelsen Road.</desc>
-  <defs>
-    <pattern id="paper-texture" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M0 6h24M0 18h24" stroke="#eedfbf" stroke-width="0.8" opacity="0.35"/>
-    </pattern>
-    <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="7" stdDeviation="8" flood-color="#51442b" flood-opacity="0.16"/>
-    </filter>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="map-title map-description">
+  <title id="map-title">Simple wayfinding map to Westish Shop</title>
+  <desc id="map-description">A simplified, not-to-scale wayfinding map. Stewart Road runs across the north. The open field and Euphoria Chocolate are north of Stewart Road. South Bertelsen Road runs along the west, West 11th Avenue runs along the south, Amazon Creek crosses diagonally between them, and Westish Shop at 1009 South Bertelsen Road is marked west of the creek.</desc>
 
-  <rect width="1200" height="800" fill="#fffaf0"/>
-  <rect width="1200" height="800" fill="url(#paper-texture)"/>
+  <rect width="1200" height="760" fill="#fffaf0"/>
 
-  <!-- Open field reference -->
-  <path d="M0 52 H282 V222 C224 254 137 281 0 297 Z" fill="#dbe7b8"/>
-  <path d="M0 86 C99 66 177 91 282 72 M0 158 C92 139 180 162 282 144" fill="none" stroke="#b2cb7c" stroke-width="4" opacity="0.7"/>
-  <text x="62" y="160" fill="#52622b" font-family="Arial, sans-serif" font-size="30" font-weight="700">Open field</text>
-  <text x="62" y="195" fill="#6b7641" font-family="Arial, sans-serif" font-size="21">landmark</text>
+  <!-- Reference landmarks north of Stewart Road -->
+  <rect x="72" y="72" width="324" height="156" rx="18" fill="#dce9be" stroke="#a7bf7b" stroke-width="4"/>
+  <text x="234" y="137" text-anchor="middle" fill="#53652d" font-family="Arial, sans-serif" font-size="31" font-weight="700">Open field</text>
+  <text x="234" y="174" text-anchor="middle" fill="#6e7a49" font-family="Arial, sans-serif" font-size="22">reference landmark</text>
 
-  <!-- Industrial blocks -->
-  <g fill="#e7e2d7" stroke="#c8c0ae" stroke-width="4">
-    <rect x="374" y="116" width="185" height="108" rx="5"/>
-    <rect x="614" y="112" width="154" height="147" rx="5"/>
-    <rect x="809" y="138" width="115" height="178" rx="5"/>
-    <rect x="972" y="124" width="164" height="207" rx="5"/>
-    <rect x="305" y="333" width="158" height="122" rx="5"/>
-    <rect x="338" y="492" width="209" height="112" rx="5"/>
-    <rect x="604" y="464" width="97" height="143" rx="5"/>
-    <rect x="764" y="445" width="180" height="164" rx="5"/>
-    <rect x="1005" y="427" width="157" height="181" rx="5"/>
+  <rect x="672" y="82" width="318" height="136" rx="18" fill="#fff" stroke="#d47725" stroke-width="5"/>
+  <circle cx="736" cy="150" r="30" fill="#d47725"/>
+  <path d="M718 150h36M736 132v36" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <text x="786" y="143" fill="#7c401c" font-family="Arial, sans-serif" font-size="29" font-weight="700">Euphoria</text>
+  <text x="786" y="178" fill="#7c401c" font-family="Arial, sans-serif" font-size="29" font-weight="700">Chocolate</text>
+
+  <!-- Essential roads only -->
+  <path d="M0 276 H1200" fill="none" stroke="#b7c3ca" stroke-width="54"/>
+  <path d="M0 276 H1200" fill="none" stroke="#fff" stroke-width="3" opacity="0.9"/>
+  <text x="1015" y="258" fill="#3d4d57" font-family="Arial, sans-serif" font-size="28" font-weight="700">Stewart Rd</text>
+
+  <path d="M166 276 V760" fill="none" stroke="#b7c3ca" stroke-width="54"/>
+  <path d="M166 276 V760" fill="none" stroke="#fff" stroke-width="3" opacity="0.9"/>
+  <text x="138" y="604" fill="#3d4d57" font-family="Arial, sans-serif" font-size="28" font-weight="700" transform="rotate(-90 138 604)">S Bertelsen Rd</text>
+
+  <path d="M0 668 H1200" fill="none" stroke="#b7c3ca" stroke-width="60"/>
+  <path d="M0 668 H1200" fill="none" stroke="#fff" stroke-width="3" opacity="0.9"/>
+  <text x="930" y="650" fill="#3d4d57" font-family="Arial, sans-serif" font-size="31" font-weight="700">W 11th Ave</text>
+
+  <!-- Amazon Creek -->
+  <path d="M344 293 C470 354 548 406 625 493 C688 565 767 612 915 692" fill="none" stroke="#cbe8cc" stroke-width="75" stroke-linecap="round"/>
+  <path d="M344 293 C470 354 548 406 625 493 C688 565 767 612 915 692" fill="none" stroke="#85c7df" stroke-width="27" stroke-linecap="round"/>
+  <path d="M344 293 C470 354 548 406 625 493 C688 565 767 612 915 692" fill="none" stroke="#3e91b7" stroke-width="6" stroke-linecap="round"/>
+  <text x="615" y="472" fill="#317b85" font-family="Arial, sans-serif" font-size="29" font-weight="700" transform="rotate(41 615 472)">Amazon Creek</text>
+
+  <!-- Destination marker -->
+  <g>
+    <circle cx="354" cy="453" r="54" fill="#d65336" stroke="#fffaf0" stroke-width="10"/>
+    <circle cx="354" cy="453" r="17" fill="#fffaf0"/>
+    <path d="M354 507 L323 566 H385 Z" fill="#d65336"/>
+    <rect x="434" y="400" width="306" height="115" rx="15" fill="#fff" stroke="#d65336" stroke-width="5"/>
+    <text x="462" y="443" fill="#7a301c" font-family="Arial, sans-serif" font-size="31" font-weight="800">Westish Shop</text>
+    <text x="462" y="481" fill="#7a301c" font-family="Arial, sans-serif" font-size="24" font-weight="700">1009 S Bertelsen Rd</text>
   </g>
 
-  <!-- Amazon Creek and its greenway -->
-  <path d="M97 210 C291 190 428 244 534 326 C660 423 689 571 918 700 L1050 800 H819 C663 666 596 554 493 469 C387 383 253 350 96 367 Z" fill="#cce7c7"/>
-  <path d="M106 275 C278 260 390 294 482 364 C601 456 627 586 857 745" fill="none" stroke="#8dc8df" stroke-width="30" stroke-linecap="round"/>
-  <path d="M106 275 C278 260 390 294 482 364 C601 456 627 586 857 745" fill="none" stroke="#4d9bbc" stroke-width="7" stroke-linecap="round"/>
-  <text x="547" y="423" fill="#377e6d" font-family="Arial, sans-serif" font-size="31" font-weight="700" transform="rotate(39 547 423)">Amazon Creek</text>
-
-  <!-- Local streets -->
-  <path d="M256 0 V664" fill="none" stroke="#acbbc5" stroke-width="54"/>
-  <path d="M256 0 V664" fill="none" stroke="#f9fbfc" stroke-width="3" opacity="0.75"/>
-  <path d="M0 707 H1200" fill="none" stroke="#acbbc5" stroke-width="62"/>
-  <path d="M0 707 H1200" fill="none" stroke="#f9fbfc" stroke-width="3" opacity="0.75"/>
-  <path d="M256 69 H1200" fill="none" stroke="#c5d0d7" stroke-width="30"/>
-  <path d="M919 70 V337 M706 363 V615 M938 475 V661" fill="none" stroke="#c5d0d7" stroke-width="25"/>
-
-  <!-- Road labels -->
-  <g fill="#3b4b55" font-family="Arial, sans-serif" font-weight="700">
-    <text x="288" y="51" font-size="25">Stewart Rd</text>
-    <text x="768" y="748" font-size="35">W 11th Ave</text>
-    <text x="226" y="535" font-size="32" transform="rotate(-90 226 535)">S Bertelsen Rd</text>
-  </g>
-
-  <!-- Euphoria Chocolate landmark -->
-  <g filter="url(#soft-shadow)">
-    <rect x="422" y="128" width="183" height="96" rx="10" fill="#fff" stroke="#d77a25" stroke-width="5"/>
-    <circle cx="454" cy="176" r="20" fill="#d77a25"/>
-    <path d="M444 169h20M454 159v20" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
-    <text x="486" y="170" fill="#81421a" font-family="Arial, sans-serif" font-size="23" font-weight="700">Euphoria</text>
-    <text x="486" y="198" fill="#81421a" font-family="Arial, sans-serif" font-size="23" font-weight="700">Chocolate</text>
-  </g>
-
-  <!-- Westish Shop building and map pin -->
-  <g filter="url(#soft-shadow)">
-    <rect x="316" y="384" width="183" height="120" rx="8" fill="#f5dfaf" stroke="#ba8b36" stroke-width="5"/>
-    <path d="M344 475h128M367 452h30M415 452h30" fill="none" stroke="#ba8b36" stroke-width="7" stroke-linecap="round"/>
-    <path d="M326 345 C326 307 378 291 398 320 C418 291 470 307 470 345 C470 386 398 435 398 435 C398 435 326 386 326 345 Z" fill="#d65336" stroke="#fffaf0" stroke-width="8"/>
-    <circle cx="398" cy="344" r="18" fill="#fffaf0"/>
-    <text x="517" y="392" fill="#7b321d" font-family="Arial, sans-serif" font-size="30" font-weight="800">Westish Shop</text>
-    <text x="517" y="426" fill="#7b321d" font-family="Arial, sans-serif" font-size="23" font-weight="700">1009 S Bertelsen Rd</text>
-  </g>
-
-  <!-- Orientation and note -->
-  <g transform="translate(1072 86)">
-    <circle cx="40" cy="40" r="34" fill="#fff" stroke="#617d91" stroke-width="4"/>
-    <path d="M40 12 L50 50 L40 44 L30 50 Z" fill="#617d91"/>
-    <text x="32" y="77" fill="#3a4e5c" font-family="Arial, sans-serif" font-size="21" font-weight="700">N</text>
-  </g>
-  <rect x="40" y="752" width="268" height="31" rx="15" fill="#f2e2b5"/>
-  <text x="58" y="774" fill="#67542a" font-family="Arial, sans-serif" font-size="18" font-weight="700">Stylized wayfinding map · not to scale</text>
+  <text x="45" y="725" fill="#6b643f" font-family="Arial, sans-serif" font-size="19" font-weight="700">Stylized wayfinding map · not to scale</text>
 </svg>
