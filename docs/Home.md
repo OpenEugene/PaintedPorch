@@ -34,8 +34,8 @@ permalink: /
     </div>
   </div>
   <figure class="home-map-figure">
-    <img src="assets/westish-art-hop-map.svg" alt="Simplified wayfinding map to Westish Shop at 1009 South Bertelsen Road. Stewart Road runs across the north, with Euphoria Chocolate and the open field north of it. South Bertelsen Road is on the west, West 11th Avenue is on the south, and Amazon Creek crosses diagonally between them.">
-    <figcaption>Westish Shop is west of Amazon Creek, just north of W 11th Avenue. Euphoria Chocolate and the open field are north of Stewart Road.</figcaption>
+    <img src="assets/westish-art-hop-map.svg?v=4" alt="Simplified wayfinding map to Westish Shop at 1009 South Bertelsen Road. South Bertelsen Road runs continuously from the north edge to the south edge on the west. Stewart Road crosses the north, with Euphoria Chocolate and the open field above it; West 11th Avenue crosses the south; and Amazon Creek enters from the west edge before leaving at the east edge.">
+    <figcaption>Westish Shop is west of Amazon Creek, just north of W 11th Avenue. The creek crosses the map edge to edge; Euphoria Chocolate and the open field are north of Stewart Road.</figcaption>
   </figure>
 </section>
 
