@@ -23,6 +23,7 @@ permalink: /
     <p class="home-section-kicker">Save the date</p>
     <h2 id="visit-heading">Visit at Art Hop · Sept 5</h2>
     <p class="home-visit-lede">Find the Painted Porch at Westish Shop during the Warehouse District Art Hop, then use the map to spot the shop just south of Amazon Creek.</p>
+    <p class="home-visit-headliner">Featuring headliner <a href="https://freestatic.bandcamp.com/album/free-static">Free Static</a>.</p>
     <address class="home-address">
       <strong>Westish Shop</strong><br>
       1009 S Bertelsen Rd, Unit E<br>
@@ -66,27 +67,6 @@ permalink: /
       <h3>Follow the illustrated guide</h3>
       <p>Move from bracing the form to painting and releasing the finished column shell, one step at a time.</p>
       <a class="home-card-link" href="Columns/Assembly%20Instructions.html">Open assembly instructions</a>
-    </article>
-  </div>
-</section>
-
-<section class="home-section home-sessions" id="sessions" aria-labelledby="sessions-heading">
-  <p class="home-section-kicker">Upcoming</p>
-  <h2 id="sessions-heading">Column pre-build sessions</h2>
-  <p class="home-sessions-intro">Bring your questions and a willingness to make something together. The first sessions focus on getting the column forms ready for the porch.</p>
-
-  <div class="home-session-grid">
-    <article class="home-session">
-      <span class="home-session-date">Thursday · August 20, 2026</span>
-      <h3>5:00 PM at Westish Shop</h3>
-      <p>First column pre-build session.</p>
-      <a href="Columns/Assembly%20Instructions.html">Review the build steps</a>
-    </article>
-    <article class="home-session">
-      <span class="home-session-date">Thursday · August 27, 2026</span>
-      <h3>5:00 PM at Westish Shop</h3>
-      <p>Second column pre-build session.</p>
-      <a href="Columns/Bill%20of%20Materials.html">Review the materials</a>
     </article>
   </div>
 </section>
