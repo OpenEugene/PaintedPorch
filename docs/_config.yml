@@ -32,11 +32,48 @@ titles_from_headings:
 
 # Home.md pins its own `layout: default` in front matter to opt out of this
 # and keep using the custom minima-based marketing layout instead.
+#
+# jekyll-titles-from-headings only sets page.title when a page's literal
+# first line is a heading — ours all start with a wikidown:breadcrumb line
+# first, so it never fires. Set title explicitly per page below instead.
+# Update this list whenever a wiki page is added, renamed, or removed.
 defaults:
   - scope:
       path: ""
     values:
       layout: wikidown
+  - scope:
+      path: "Docs.md"
+    values:
+      title: "Docs"
+  - scope:
+      path: "Columns.md"
+    values:
+      title: "Columns"
+  - scope:
+      path: "Columns/Bill of Materials.md"
+    values:
+      title: "Bill of Materials"
+  - scope:
+      path: "Columns/Assembly Instructions.md"
+    values:
+      title: "Assembly Instructions"
+  - scope:
+      path: "Image Prompts.md"
+    values:
+      title: "Image Prompts"
+  - scope:
+      path: "Events.md"
+    values:
+      title: "Events"
+  - scope:
+      path: "AI Disclaimer.md"
+    values:
+      title: "AI Disclaimer"
+  - scope:
+      path: "About.md"
+    values:
+      title: "About"
 
 include:
   - .attachments
