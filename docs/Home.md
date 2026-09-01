@@ -10,7 +10,7 @@ permalink: /
   </figure>
   <div class="home-hero-copy">
     <p class="home-eyebrow">Eugene, Oregon · Open to the street</p>
-    <h1 id="home-title">A porch for art, ideas, and anyone who walks up.</h1>
+    <h1 id="home-title">A porch for painting and conversations.</h1>
     <p class="home-hero-lede">The Painted Porch is a public-facing community space where people can gather, build, paint, and share what they are thinking about.</p>
     <div class="home-actions" aria-label="Start here">
       <a class="home-button home-button-primary" href="Columns/Assembly%20Instructions.html">See the build guide</a>
