@@ -20,20 +20,18 @@ permalink: /
 
 <section class="home-section home-visit" id="visit" aria-labelledby="visit-heading">
   <div class="home-visit-copy">
-    <p class="home-section-kicker">Save the date</p>
     <h2 id="visit-heading">Visit at Art Hop · Sept 5</h2>
-    <p class="home-visit-lede">Find the Painted Porch at Westish Shop during the Warehouse District Art Hop, then use the map to spot the shop just south of Amazon Creek.</p>
+    <dl class="home-visit-facts">
+      <div class="home-visit-fact"><dt>What</dt><dd>Painting and discussions</dd></div>
+      <div class="home-visit-fact"><dt>When</dt><dd>Sept 5, 11 AM – 3 PM, during Art Hop</dd></div>
+      <div class="home-visit-fact"><dt>Where</dt><dd>Westish Shop, 1009 S Bertelsen Rd, Unit E, Eugene, OR 97402</dd></div>
+    </dl>
     <p class="home-visit-headliner">Featuring headliner <a href="https://freestatic.bandcamp.com/album/free-static">Free Static</a>.</p>
     <figure class="home-visit-band" aria-label="Free Static">
       <img src="assets/free-static-poster.jpg" alt="Glitch-style show poster for Free Static, listing support acts Courtney Stubbert and Chris Ruiz.">
       <img src="assets/free-static-live.jpg" alt="The Free Static duo performing live on modular synthesizer gear under purple and orange stage lighting.">
       <figcaption>Free Static, live</figcaption>
     </figure>
-    <address class="home-address">
-      <strong>Westish Shop</strong><br>
-      1009 S Bertelsen Rd, Unit E<br>
-      Eugene, OR 97402
-    </address>
     <div class="home-actions" aria-label="Art Hop links">
       <a class="home-button home-button-primary" href="https://www.warehousedistrictarthop.com/">Art Hop website</a>
       <a class="home-button" href="https://www.instagram.com/warehousedistrictarthop/">Follow on Instagram</a>

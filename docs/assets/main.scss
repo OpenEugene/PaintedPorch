@@ -508,6 +508,35 @@
   line-height: 1.62;
 }
 
+.home-visit-facts {
+  display: grid;
+  gap: 0.6rem;
+  margin: 1.1rem 0 1.4rem;
+}
+
+.home-visit-fact {
+  display: flex;
+  gap: 0.65rem;
+  align-items: baseline;
+}
+
+.home-visit-fact dt {
+  flex: 0 0 5.5rem;
+  color: #66531f;
+  font-size: 0.76rem;
+  font-weight: 800;
+  letter-spacing: 0.13em;
+  line-height: 1.35;
+  text-transform: uppercase;
+}
+
+.home-visit-fact dd {
+  margin: 0;
+  color: #4e5149;
+  font-size: 1.08rem;
+  line-height: 1.55;
+}
+
 .home-address {
   margin: 0 0 1.4rem;
   padding: 0.9rem 1rem;

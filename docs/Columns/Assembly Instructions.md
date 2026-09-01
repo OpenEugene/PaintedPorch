@@ -43,10 +43,10 @@ This guide uses an **8 ft tall, 12" diameter** Sonotube; adjust the wire and pap
   <figcaption>Overlap the seam, then use low-profile hog rings to hold the mesh flat at the seam and edges.</figcaption>
 </figure>
 
-<p class="action-summary">Wrap hardware cloth around the form, overlap the seam, and crimp it closed with hog rings.</p>
+<p class="action-summary">Wrap hardware cloth around the form, overlap the seam, and cinch it closed with zip ties.</p>
 
 - Unroll the hardware cloth and wrap it around the Sonotube, overlapping the seam by a couple inches.
-- Cinch the seam and the top/bottom edges with hog rings through the mesh, crimped shut with the hog ring pliers. They sit flatter than zip ties, so they do not bump through the layers on top.
+- Cinch the seam and the top/bottom edges with zip ties through the mesh, pulled tight and trimmed flush so the tails don't bump through the layers on top.
 - This layer gives the column its rigidity and a rough surface texture to build on.
 
 <div class="step-title"><span class="step-number">3</span><h2>Add stretch wrap</h2></div>
@@ -95,7 +95,7 @@ This guide uses an **8 ft tall, 12" diameter** Sonotube; adjust the wire and pap
 
 <p class="action-summary">Paint only after the paper shell is fully wrapped, then allow each coat to dry before handling the column.</p>
 
-- Once the paper shell is fully wrapped and any adhesive has set, paint with the tempera paint using the paint brushes.
+- Once the paper shell is fully wrapped and any adhesive has set, paint with the tempera paint using the foam brushes.
 - Let each coat dry before handling the column.
 
 <div class="step-title"><span class="step-number">7</span><h2>Release the shell</h2></div>
