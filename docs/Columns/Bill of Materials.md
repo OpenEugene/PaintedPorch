@@ -26,4 +26,4 @@ Materials for the [Columns](../Columns.md) build, sourced from several Amazon or
 
 | Item | Layer | Note |
 | --- | --- | --- |
-| Sonotube (concrete form tube) | Form / core | 8 ft tall, 12" diameter — quantity not yet chosen. Source separately before cutting wire/paper to size. |
+| Sonotube (concrete form tube) | Form / core | 8 ft tall, 12" diameter — quantity not yet chosen. Available at construction supply stores; source separately before cutting wire/paper to size. |
