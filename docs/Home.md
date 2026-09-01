@@ -26,7 +26,7 @@ permalink: /
       <div class="home-visit-fact"><dt>When</dt><dd>Sept 5, 11 AM – 3 PM, during Art Hop</dd></div>
       <div class="home-visit-fact"><dt>Where</dt><dd>Westish Shop, 1009 S Bertelsen Rd, Unit E, Eugene, OR 97402</dd></div>
     </dl>
-    <p class="home-visit-headliner">Featuring headliner <a href="https://freestatic.bandcamp.com/album/free-static">Free Static</a>.</p>
+    <p class="home-visit-headliner">Featuring headliner <a href="https://freestatic.bandcamp.com/album/sharks-lung-in-plastic">Free Static</a>.</p>
     <figure class="home-visit-band" aria-label="Free Static">
       <img src="assets/free-static-poster.jpg" alt="Glitch-style show poster for Free Static, listing support acts Courtney Stubbert and Chris Ruiz.">
       <img src="assets/free-static-live.jpg" alt="The Free Static duo performing live on modular synthesizer gear under purple and orange stage lighting.">
@@ -59,12 +59,13 @@ permalink: /
 <section class="home-story" aria-labelledby="story-heading">
   <div>
     <p class="home-section-kicker">Why “Painted Porch”</p>
-    <h2 id="story-heading">An old idea, kept open</h2>
+    <h2 id="story-heading">An old idea, newly opened</h2>
   </div>
   <div class="home-story-copy">
     <p>The name comes from the <em>Stoa Poikile</em>, the “Painted Porch” of ancient Athens: a public colonnade where paintings, conversation, and ideas met people passing through. Its openness matters here more than its history.</p>
     <p>This porch takes that same cue. Art and ideas do not need an invitation to be worth encountering; they can meet us out on the street, unfinished and in progress.</p>
     <p>The Painted Porch is part of the <a href="https://www.warehousedistrictarthop.com/">Warehouse District Art Hop</a>, Eugene’s monthly celebration of west-side warehouse-district artists and creative spaces.</p>
+    <p>This site and the column project plans are open source on <a href="https://github.com/OpenEugene/PaintedPorch">GitHub</a>.</p>
   </div>
 </section>
 

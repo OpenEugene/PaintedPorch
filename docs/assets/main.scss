@@ -20,6 +20,16 @@
   color: var(--porch-ink);
 }
 
+.site-github-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.site-github-link svg {
+  fill: currentColor;
+}
+
 .build-intro {
   margin: 1.5rem 0 2rem;
   padding: 1.25rem 1.4rem;
