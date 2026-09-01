@@ -67,6 +67,10 @@ defaults:
     values:
       title: "Events"
   - scope:
+      path: "Music.md"
+    values:
+      title: "Music"
+  - scope:
       path: "AI Disclaimer.md"
     values:
       title: "AI Disclaimer"
