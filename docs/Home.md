@@ -47,30 +47,12 @@ permalink: /
   <div class="home-section-heading">
     <div>
       <p class="home-section-kicker">Start here</p>
-      <h2 id="make-heading">Make the porch with us</h2>
+      <h2 id="make-heading">Paint with us</h2>
     </div>
-    <p>The column project is underway. Choose the page that matches what you need right now—an overview, a supply list, or the full illustrated build.</p>
+    <p>Follow the illustrated guide from bracing the form to painting and releasing the finished column shell.</p>
   </div>
-
-  <div class="home-card-grid">
-    <article class="home-card">
-      <p class="home-card-kicker">Overview</p>
-      <h3>See the column layer stack</h3>
-      <p>Understand how the Sonotube, wire, stretch wrap, tape, paper, and paint work together.</p>
-      <a class="home-card-link" href="Columns.html">Explore the column project</a>
-    </article>
-    <article class="home-card">
-      <p class="home-card-kicker">Prepare</p>
-      <h3>Check the materials list</h3>
-      <p>Review what is already sourced, what still needs to be picked up, and the open sizing decisions.</p>
-      <a class="home-card-link" href="Columns/Bill%20of%20Materials.html">Open the bill of materials</a>
-    </article>
-    <article class="home-card">
-      <p class="home-card-kicker">Build</p>
-      <h3>Follow the illustrated guide</h3>
-      <p>Move from bracing the form to painting and releasing the finished column shell, one step at a time.</p>
-      <a class="home-card-link" href="Columns/Assembly%20Instructions.html">Open assembly instructions</a>
-    </article>
+  <div class="home-actions" aria-label="Build guide link">
+    <a class="home-button home-button-primary" href="Columns/Assembly%20Instructions.html">Open assembly instructions</a>
   </div>
 </section>
 
