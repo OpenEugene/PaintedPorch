@@ -8,11 +8,17 @@ An illustrated, step-by-step build for the [Columns](../Columns.md), using the m
   <figcaption>The full vision: six columns painted in place around a shared fire pit, connected by the same drop cloths used to build them.</figcaption>
 </figure>
 
+<div class="decision-callout" markdown="1">
+
+The illustrations on this page — including the full installation vision above and the steps below — are AI-generated approximations, not photos of the actual build, and will likely be replaced with real photos over time. See the [AI Disclaimer](../AI%20Disclaimer.md).
+
+</div>
+
 <div class="build-intro" markdown="1">
 
 ## Before you start
 
-This guide uses an **8 ft tall, 12" diameter** Sonotube; adjust the wire and paper quantities if you build at a different size. This guide uses the removable-shell method: the stretch-wrap layer lets the finished paper, tape, and wire shell slide off the Sonotube after the paint has dried, so the same tube can be reused as the template/mold for the next column.
+This guide uses an **8 ft tall, 12" diameter** Sonotube — adjust the wire and paper quantities if you build at a different size. It follows the removable-shell method: the stretch-wrap layer lets the finished paper, tape, and wire shell slide off the Sonotube after the paint has dried, so the same tube gets reused as the template/mold for the next column.
 
 </div>
 

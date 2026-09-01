@@ -270,6 +270,7 @@
 }
 
 .home-hero-art {
+  position: relative;
   min-height: 23rem;
   margin: 0;
   background: #e6d2a9;
@@ -283,8 +284,41 @@
   object-fit: cover;
 }
 
+.home-hero-disclaimer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: 0;
+  padding: 0.55rem 0.9rem;
+  background: rgba(37, 37, 37, 0.72);
+  color: #fff;
+  font-size: 0.78rem;
+  line-height: 1.4;
+}
+
+.home-hero-disclaimer a {
+  color: #ffe198;
+}
+
 .home-section {
   margin: 0 0 3.6rem;
+}
+
+.home-paint-copy {
+  max-width: 42rem;
+  margin: 0 0 1.75rem;
+}
+
+.home-paint-copy p {
+  margin: 0 0 1rem;
+  color: #4e4b45;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.home-paint-copy p:last-child {
+  margin-bottom: 0;
 }
 
 .home-section-heading {
@@ -494,20 +528,36 @@
 .home-visit {
   display: grid;
   grid-template-columns: minmax(18rem, 0.75fr) minmax(0, 1.25fr);
+  grid-template-areas:
+    "heading heading"
+    "copy map";
   gap: clamp(1.5rem, 4.2vw, 4rem);
-  align-items: center;
+  align-items: start;
   padding: clamp(1.5rem, 4vw, 3.4rem);
   border: 1px solid #d3dfc4;
   border-radius: 0.45rem;
   background: #f1f6ea;
 }
 
-.home-visit h2 {
+.home-visit-heading {
+  grid-area: heading;
   margin: 0.25rem 0 0;
   color: var(--porch-ink);
   font-size: clamp(2rem, 3.6vw, 3.1rem);
   letter-spacing: -0.045em;
   line-height: 1.05;
+}
+
+.home-visit-copy {
+  grid-area: copy;
+}
+
+.home-visit-map-col {
+  grid-area: map;
+}
+
+.home-visit-map-col .home-actions {
+  margin: 0 0 1.1rem;
 }
 
 .home-visit-lede {
@@ -588,6 +638,10 @@
 @media screen and (max-width: 760px) {
   .home-visit {
     grid-template-columns: 1fr;
+    grid-template-areas:
+      "heading"
+      "copy"
+      "map";
     gap: 1.5rem;
     padding: 1.35rem;
   }

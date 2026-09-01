@@ -15,12 +15,13 @@ permalink: /
   </div>
   <figure class="home-hero-art">
     <img src="assets/painted-porch-hero.jpg" alt="Community members paint handmade kraft-paper columns with blue waves, orange suns, and leafy shapes on an open porch in a warehouse district.">
+    <figcaption class="home-hero-disclaimer">AI-generated concept image — we'll swap this for real event photos once we have them. <a href="AI%20Disclaimer.html">More on how we use AI images</a>.</figcaption>
   </figure>
 </section>
 
 <section class="home-section home-visit" id="visit" aria-labelledby="visit-heading">
+  <h2 id="visit-heading" class="home-visit-heading">Visit at Art Hop · Sept 5</h2>
   <div class="home-visit-copy">
-    <h2 id="visit-heading">Visit at Art Hop · Sept 5</h2>
     <dl class="home-visit-facts">
       <div class="home-visit-fact"><dt>What</dt><dd>Painting and discussions</dd></div>
       <div class="home-visit-fact"><dt>When</dt><dd>Sept 5, 11 AM – 3 PM, during Art Hop</dd></div>
@@ -32,15 +33,17 @@ permalink: /
       <img src="assets/free-static-live.jpg" alt="The Free Static duo performing live on modular synthesizer gear under purple and orange stage lighting.">
       <figcaption>Free Static, live</figcaption>
     </figure>
+  </div>
+  <div class="home-visit-map-col">
     <div class="home-actions" aria-label="Art Hop links">
       <a class="home-button home-button-primary" href="https://www.warehousedistrictarthop.com/">Art Hop website</a>
-      <a class="home-button" href="https://www.instagram.com/warehousedistrictarthop/">Follow on Instagram</a>
+      <a class="home-button" href="https://www.instagram.com/warehousedistrictarthop/">Follow Art Hop on Instagram</a>
     </div>
+    <figure class="home-map-figure">
+      <img src="assets/westish-art-hop-map.svg?v=6" alt="Simplified wayfinding map to Westish Shop, Unit E, at 1009 South Bertelsen Road. South Bertelsen Road runs continuously from the north edge to the south edge on the west. Stewart Road crosses the north, with Euphoria Chocolate marked on it and the open field east of Bertelsen; West 11th Avenue crosses the south; and Amazon Creek enters from the west edge before leaving at the east edge. A short driveway connects Bertelsen Road to the shop.">
+      <figcaption>Westish Shop, Unit E, is west of Amazon Creek, just north of W 11th Avenue. The creek crosses the map edge to edge; Euphoria is on Stewart Road and the field is east of Bertelsen.</figcaption>
+    </figure>
   </div>
-  <figure class="home-map-figure">
-    <img src="assets/westish-art-hop-map.svg?v=6" alt="Simplified wayfinding map to Westish Shop, Unit E, at 1009 South Bertelsen Road. South Bertelsen Road runs continuously from the north edge to the south edge on the west. Stewart Road crosses the north, with Euphoria Chocolate marked on it and the open field east of Bertelsen; West 11th Avenue crosses the south; and Amazon Creek enters from the west edge before leaving at the east edge. A short driveway connects Bertelsen Road to the shop.">
-    <figcaption>Westish Shop, Unit E, is west of Amazon Creek, just north of W 11th Avenue. The creek crosses the map edge to edge; Euphoria is on Stewart Road and the field is east of Bertelsen.</figcaption>
-  </figure>
 </section>
 
 <section class="home-section" aria-labelledby="make-heading">
@@ -49,11 +52,12 @@ permalink: /
       <p class="home-section-kicker">Start here</p>
       <h2 id="make-heading">Paint with us</h2>
     </div>
-    <p>Follow the illustrated guide from bracing the form to painting and releasing the finished column shell.</p>
   </div>
-  <figure class="home-visit-band" aria-label="Installation vision">
-    <img src="assets/radial-fire-pit-vision-thumb.jpg" alt="Isometric watercolor illustration of the finished installation: a central fire pit surrounded by people, with six painted columns arranged radially on drop-cloth spokes and a garage door open with music playing.">
-  </figure>
+  <div class="home-paint-copy">
+    <p>Walk up and join in — no painting experience required. The columns are a shared canvas, and pulling up a chair to talk counts just as much as picking up a brush.</p>
+    <p>Have a concept you want to bring to life? Come early and claim a column to make your own.</p>
+    <p>One house rule: once a column is claimed and underway, it's that painter's to finish. Please don't paint over someone else's work in progress.</p>
+  </div>
   <div class="home-actions" aria-label="Build guide link">
     <a class="home-button home-button-primary" href="Columns/Assembly%20Instructions.html">Open assembly instructions</a>
   </div>
