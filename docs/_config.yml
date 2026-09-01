@@ -3,10 +3,40 @@ description: >-
   Community wiki for the Painted Porch — a Warehouse District Art Hop venue
   in Eugene, Oregon.
 theme: minima
+repository_url: https://github.com/OpenEugene/PaintedPorch
+favicon: /favicon.ico
+
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
 plugins:
   - jekyll-optional-front-matter
   - jekyll-default-layout
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+
 optional_front_matter:
   enabled: true
 default_layout: default
+
+relative_links:
+  enabled: true
+  collections: false
+
+titles_from_headings:
+  enabled: true
+  strip_title: false
+
+# Home.md pins its own `layout: default` in front matter to opt out of this
+# and keep using the custom minima-based marketing layout instead.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: wikidown
+
+include:
+  - .attachments

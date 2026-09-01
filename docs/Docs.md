@@ -15,3 +15,4 @@ Documentation for building the Painted Porch's column project.
 - [Image Prompts](Image%20Prompts.md) — prompts used to generate concept and reference images
 - [AI Disclaimer](AI%20Disclaimer.md) — where and why AI-generated images are used on this site
 - [Events](Events.md) — upcoming Painted Porch events
+- [About](About.md) — this site, Open Eugene, and who's behind it

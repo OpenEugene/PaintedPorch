@@ -14,6 +14,6 @@ Stop by, watch a column go from paper to paint, and pick up a brush yourself. Se
 
 ## Saturday, October 3, 2026
 
-Another open gathering — no prescribed topic or agenda, same as always. Paint, talk, bring a concept for a column, or just stop by. If you're curious about the AI-generated images around this site, that's fair game too — see the [AI Disclaimer](AI%20Disclaimer.md).
+Another open gathering — no prescribed topic or agenda, same as always. Paint, talk, or just stop by. If you're curious about the AI-generated images around this site, that's fair game too — see the [AI Disclaimer](AI%20Disclaimer.md).
 
 Time and venue aren't locked in yet. It'll likely be at Westish Shop like the other events, but treat that as tentative until confirmed.

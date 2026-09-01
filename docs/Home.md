@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: default
 ---
 <div class="home-page">
 
@@ -55,8 +56,8 @@ permalink: /
   </div>
   <div class="home-paint-copy">
     <p>Walk up and join in — no painting experience required. The columns are a shared canvas, and pulling up a chair to talk counts just as much as picking up a brush.</p>
-    <p>Have a concept you want to bring to life? Come early and claim a column to make your own.</p>
-    <p>One house rule: once a column is claimed and underway, it's that painter's to finish. Please don't paint over someone else's work in progress.</p>
+    <p>Mixed media is welcome — paint, collage, whatever you bring.</p>
+    <p>Two house rules: don't paint over someone else's work, and no glitter.</p>
   </div>
   <div class="home-actions" aria-label="Build guide link">
     <a class="home-button home-button-primary" href="Columns/Assembly%20Instructions.html">Open assembly instructions</a>

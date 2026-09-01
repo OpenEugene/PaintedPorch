@@ -17,6 +17,7 @@
 
       <div class="trigger">
         <a class="page-link" href="{{ "/Docs.html" | relative_url }}">Docs</a>
+        <a class="page-link" href="{{ "/About.html" | relative_url }}">About</a>
         {%- assign default_paths = site.pages | map: "path" -%}
         {%- assign page_paths = site.header_pages | default: default_paths -%}
         {%- for path in page_paths -%}
