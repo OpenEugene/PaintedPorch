@@ -24,6 +24,11 @@ permalink: /
     <h2 id="visit-heading">Visit at Art Hop · Sept 5</h2>
     <p class="home-visit-lede">Find the Painted Porch at Westish Shop during the Warehouse District Art Hop, then use the map to spot the shop just south of Amazon Creek.</p>
     <p class="home-visit-headliner">Featuring headliner <a href="https://freestatic.bandcamp.com/album/free-static">Free Static</a>.</p>
+    <figure class="home-visit-band" aria-label="Free Static">
+      <img src="assets/free-static-poster.jpg" alt="Glitch-style show poster for Free Static, listing support acts Courtney Stubbert and Chris Ruiz.">
+      <img src="assets/free-static-live.jpg" alt="The Free Static duo performing live on modular synthesizer gear under purple and orange stage lighting.">
+      <figcaption>Free Static, live</figcaption>
+    </figure>
     <address class="home-address">
       <strong>Westish Shop</strong><br>
       1009 S Bertelsen Rd, Unit E<br>

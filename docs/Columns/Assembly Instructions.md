@@ -7,7 +7,7 @@ An illustrated, step-by-step build for the [Columns](../Columns.md), using the m
 
 ## Before you start
 
-Confirm the **finished Sonotube diameter and height** before cutting any wire or paper. This guide shows the removable-shell approach: the stretch-wrap layer lets the finished paper, tape, and wire shell slide off the Sonotube after the paint has dried. If the tube will remain as a permanent core, simply skip the final release step.
+This guide uses an **8 ft tall, 12" diameter** Sonotube; adjust the wire and paper quantities if you build at a different size. This guide uses the removable-shell method: the stretch-wrap layer lets the finished paper, tape, and wire shell slide off the Sonotube after the paint has dried, so the same tube can be reused as the template/mold for the next column.
 
 </div>
 
@@ -59,7 +59,7 @@ Confirm the **finished Sonotube diameter and height** before cutting any wire or
 <p class="action-summary">Wrap the stretch film tightly from bottom to top, keeping each overlapping band smooth and taut.</p>
 
 - Wrap the stretch film tightly around the wire, working bottom to top in overlapping bands so it stays taut and smooths over the mesh bumps.
-- This layer also acts as a release film between the Sonotube form and the paper shell. Do not skip it if you intend to slide the finished shell off the tube.
+- This layer also acts as a release film between the Sonotube form and the paper shell, letting the finished shell slide free so the Sonotube can be reused as the template for the next column.
 
 <div class="step-title"><span class="step-number">4</span><h2>Make a tape grid</h2></div>
 
@@ -98,23 +98,23 @@ Confirm the **finished Sonotube diameter and height** before cutting any wire or
 - Once the paper shell is fully wrapped and any adhesive has set, paint with the tempera paint using the paint brushes.
 - Let each coat dry before handling the column.
 
-<div class="step-title"><span class="step-number">7</span><h2>Release the shell, if desired</h2></div>
+<div class="step-title"><span class="step-number">7</span><h2>Release the shell</h2></div>
 
 <figure class="build-figure">
   <img src="../assets/column-build/07-release-shell.jpg" alt="A painted decorative column shell lifts upward from a blue-gray Sonotube form, with a transparent release-film layer visible between them.">
-  <figcaption>Choose the final construction: release a hollow shell from the form, or leave the Sonotube inside as a permanent core.</figcaption>
+  <figcaption>Slide the finished shell off the form, then set the Sonotube aside to use as the template for the next column.</figcaption>
 </figure>
 
-<p class="action-summary">After the paint is dry, slide the shell free for a hollow column—or leave the Sonotube inside for a permanent core.</p>
+<p class="action-summary">After the paint is dry, slide the shell free from the Sonotube and set the tube aside to build the next column.</p>
 
 - Once the paint is dry, carefully work the paper/tape/wire shell loose from the Sonotube. The stretch-wrap layer should let it slide free.
-- If the Sonotube is meant to stay in as a permanent core instead, skip this step.
+- Set the Sonotube aside — it becomes the reusable template/mold for the next column.
 
 <div class="decision-callout" markdown="1">
 
-## Make the final decision before release
+## Reuse the Sonotube for the next column
 
-Choose a **removable shell** if you want to reuse the Sonotube form and display a lighter, hollow column. Choose a **permanent core** if the column needs the form to remain inside. The material layers are the same in either case; only the final release decision changes.
+The Sonotube isn't part of the finished column — it's a reusable template. Once a shell is released in step 7, the same tube goes back to step 2 to build the wire, stretch-wrap, tape, and paper layers for the next column.
 
 </div>
 
@@ -125,8 +125,3 @@ Choose a **removable shell** if you want to reuse the Sonotube form and display 
 Before moving the column into place, confirm that the paper is securely bonded to the tape grid, the paint is dry to the touch, and the finished form is stable for its intended installation. Keep the detailed materials list close by for future builds or repairs.
 
 </div>
-
-## Open questions
-
-- Sonotube diameter and height are not specified yet. Pick them before step 1 so the wire and paper quantities can be cut to the right size.
-- Confirm whether the shell should be removed from the form (step 7) or the Sonotube should remain as a permanent core.
