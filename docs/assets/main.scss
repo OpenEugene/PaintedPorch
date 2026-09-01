@@ -173,8 +173,6 @@
 }
 
 .home-hero {
-  display: grid;
-  grid-template-columns: minmax(0, 0.88fr) minmax(0, 1.12fr);
   overflow: hidden;
   margin: 0 0 3.5rem;
   border: 1px solid #e5d5b5;
@@ -187,8 +185,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  justify-content: center;
-  padding: clamp(2rem, 5vw, 4.6rem) clamp(1.7rem, 4.5vw, 4.1rem);
+  padding: clamp(1.8rem, 4vw, 3.2rem) clamp(1.7rem, 4.5vw, 4.1rem);
 }
 
 .home-eyebrow,
@@ -271,7 +268,6 @@
 
 .home-hero-art {
   position: relative;
-  min-height: 23rem;
   margin: 0;
   background: #e6d2a9;
 }
@@ -279,9 +275,7 @@
 .home-hero-art img {
   display: block;
   width: 100%;
-  height: 100%;
-  min-height: 23rem;
-  object-fit: cover;
+  height: auto;
 }
 
 .home-hero-disclaimer {
@@ -483,22 +477,16 @@
     margin-top: 0.8rem;
   }
 
-  .home-hero,
   .home-story {
     grid-template-columns: 1fr;
   }
 
   .home-hero-copy {
-    padding: 2.1rem 1.4rem 1.8rem;
+    padding: 1.8rem 1.4rem;
   }
 
   .home-hero h1 {
     max-width: 12ch;
-  }
-
-  .home-hero-art,
-  .home-hero-art img {
-    min-height: 16rem;
   }
 
   .home-card-grid,

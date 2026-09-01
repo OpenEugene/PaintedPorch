@@ -4,6 +4,10 @@ permalink: /
 <div class="home-page">
 
 <section class="home-hero" aria-labelledby="home-title">
+  <figure class="home-hero-art">
+    <img src="assets/painted-porch-hero.jpg" alt="Community members paint handmade kraft-paper columns with blue waves, orange suns, and leafy shapes on an open porch in a warehouse district.">
+    <figcaption class="home-hero-disclaimer">AI-generated concept image — we'll swap this for real event photos once we have them. <a href="AI%20Disclaimer.html">More on how we use AI images</a>.</figcaption>
+  </figure>
   <div class="home-hero-copy">
     <p class="home-eyebrow">Eugene, Oregon · Open to the street</p>
     <h1 id="home-title">A porch for art, ideas, and anyone who walks up.</h1>
@@ -13,10 +17,6 @@ permalink: /
       <a class="home-button" href="#visit">Visit at Art Hop · Sept 5</a>
     </div>
   </div>
-  <figure class="home-hero-art">
-    <img src="assets/painted-porch-hero.jpg" alt="Community members paint handmade kraft-paper columns with blue waves, orange suns, and leafy shapes on an open porch in a warehouse district.">
-    <figcaption class="home-hero-disclaimer">AI-generated concept image — we'll swap this for real event photos once we have them. <a href="AI%20Disclaimer.html">More on how we use AI images</a>.</figcaption>
-  </figure>
 </section>
 
 <section class="home-section home-visit" id="visit" aria-labelledby="visit-heading">
