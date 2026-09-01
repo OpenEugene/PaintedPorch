@@ -51,6 +51,9 @@ permalink: /
     </div>
     <p>Follow the illustrated guide from bracing the form to painting and releasing the finished column shell.</p>
   </div>
+  <figure class="home-visit-band" aria-label="Installation vision">
+    <img src="assets/radial-fire-pit-vision-thumb.jpg" alt="Isometric watercolor illustration of the finished installation: a central fire pit surrounded by people, with six painted columns arranged radially on drop-cloth spokes and a garage door open with music playing.">
+  </figure>
   <div class="home-actions" aria-label="Build guide link">
     <a class="home-button home-button-primary" href="Columns/Assembly%20Instructions.html">Open assembly instructions</a>
   </div>

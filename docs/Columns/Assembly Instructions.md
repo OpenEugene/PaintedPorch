@@ -3,6 +3,11 @@
 # Assembly Instructions
 An illustrated, step-by-step build for the [Columns](../Columns.md), using the materials listed in the [Bill of Materials](Bill of Materials.md).
 
+<figure class="build-figure">
+  <img src="../assets/radial-fire-pit-vision.jpg" alt="Isometric watercolor illustration of the finished installation: a fire pit at the center with people sitting around it talking, six tall painted columns arranged radially on canvas drop-cloth spokes running out from the fire pit, two people painting columns, paint buckets at each column's base, and a row of garage doors behind with one door open, playing music, a record player visible inside.">
+  <figcaption>The full vision: six columns painted in place around a shared fire pit, connected by the same drop cloths used to build them.</figcaption>
+</figure>
+
 <div class="build-intro" markdown="1">
 
 ## Before you start
