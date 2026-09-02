@@ -4,7 +4,7 @@
 
 ## Built with Wikidown
 
-This site's documentation — the build guide, materials list, image prompts, and this page — is a Wikidown wiki: plain markdown pages with `.order` files for navigation, versioned in the open [GitHub repo](https://github.com/OpenEugene/PaintedPorch). The wiki tool itself, [Wikidown](https://github.com/markdav-is/Wikidown), is also open source. Anyone can read the source or open a pull request.
+This site's documentation — the build guide, materials list, image prompts, and this page — is a Wikidown wiki: plain markdown pages with `.order` files for navigation, versioned in the open [GitHub repo](https://github.com/OpenEugene/PaintedPorch). The wiki tool itself, [Wikidown](https://wikidown.org), is also open source. Anyone can read the source or open a pull request.
 
 ## Published with GitHub Pages
 
