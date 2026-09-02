@@ -1,6 +1,7 @@
 ---
 permalink: /
 layout: default
+image: /assets/painted-porch-hero.jpg
 ---
 <div class="home-page">
 

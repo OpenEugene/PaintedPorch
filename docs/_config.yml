@@ -3,8 +3,13 @@ description: >-
   Community wiki for the Painted Porch — a Warehouse District Art Hop venue
   in Eugene, Oregon.
 theme: minima
+url: "https://paintedporch.fyi"
 repository_url: https://github.com/OpenEugene/PaintedPorch
 favicon: /favicon.ico
+# Fallback social-share image for docs pages (see _layouts/wikidown.html).
+# Home.md sets its own `image:` front matter, read by minima's jekyll-seo-tag
+# output instead, so it isn't affected by this key.
+social_image: /assets/painted-porch-hero.jpg
 
 markdown: kramdown
 kramdown:
